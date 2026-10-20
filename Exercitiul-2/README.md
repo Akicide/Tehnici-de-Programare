@@ -1,1 +1,0 @@
-# scrii un rand: # Al doilea depozit, si salvezi
